@@ -8,3 +8,6 @@ def model2():
 
 def model3():
     print('code for Model3')
+
+
+print('model2 is performing well')
